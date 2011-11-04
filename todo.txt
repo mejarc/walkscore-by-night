@@ -1,0 +1,7 @@
+TODO
+
+* what is the API for Walk Score?
+* what is the API for Oakland Crimespotting?
+* what is the API for Yelp?
+* Weight various kinds of data; subtract from Walk Score 
+* semi-opaque layer over ordinary Walk Score Google Map
