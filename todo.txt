@@ -1,7 +1,25 @@
 TODO
 
 * what is the API for Walk Score?
+http://www.walkscore.com/professional/walk-score-apis.php
+
 * what is the API for Oakland Crimespotting?
+http://oakland.crimespotting.org/api
+
 * what is the API for Yelp?
+http://www.yelp.com/developers
+http://www.yelp.com/developers/manage_api_keys
+
+* what is the API for AC Transit?
+     ** Walk Score API has some data. Doesn't seem to include frequency)
+     ** What about using NextBus data? Buses scheduled for later in the day--often late.
+     ** Will need BART, too--some walking influenced by whether BART station is open.
+     https://code.google.com/p/googletransitdatafeed/wiki/PublicFeedsNonGTFS
+     
 * Weight various kinds of data; subtract from Walk Score 
 * semi-opaque layer over ordinary Walk Score Google Map
+
+* Yay, Code for Oakland: http://codeforoakland.org/data-sets/
+
+Other reading: 
+* GeoJSON, http://geojson.org/
