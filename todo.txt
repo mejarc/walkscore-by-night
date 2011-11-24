@@ -19,6 +19,9 @@ http://www.yelp.com/developers/manage_api_keys
      https://code.google.com/p/googletransitdatafeed/wiki/PublicFeedsNonGTFS
      BART: XML- http://api.bart.gov/api/etd.aspx?cmd=etd&orig=12th&key=MW9S-E7SL-26DU-VV8V
      
+* Integrate traffic safety data?
+  ** http://dc.streetsblog.org/2011/11/23/mapping-the-consequences-of-our-automobile-addiction/
+     
 * Weight various kinds of data; subtract from Walk Score 
 
 * semi-opaque layer over ordinary Walk Score Google Map
